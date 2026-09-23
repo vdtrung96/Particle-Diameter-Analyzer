@@ -86,6 +86,6 @@ most commonly adjusted ones:
 
 Each parameter is documented inline in `diameter_calculation.py`.
 
-## License
+## Author
 
-Released under the MIT License — see [LICENSE](LICENSE).
+Vuong Dinh Trung 
